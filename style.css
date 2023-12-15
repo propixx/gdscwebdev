@@ -1,0 +1,89 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #808b6068;
+}
+
+header {
+    background-color: #118d4f;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+#main-content {
+    padding: 20px;
+}
+.line1 {
+    background-color: aqua;
+    padding: 10px;
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: 600 ;
+    font-size: large;
+    font-style: oblique;
+    font-weight: 700;
+}
+h3{
+    background-color: rgba(159, 99, 219, 0.349);
+    padding: 10px;
+    color: rgb(189, 57, 63);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: 600 ;
+    font-size: large;
+    font-style: oblique;
+    font-weight: 700;
+}
+form{
+    background-color: rgba(159, 99, 219, 0.349);
+    padding: 10px;
+    color: rgb(0, 9, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: 100 ;
+    font-size: medium;
+    font-style: bold;    
+    font-weight: 200;
+}
+p{
+    /* background-color: rgba(159, 99, 219, 0.349); */
+    padding: 1px;
+    color: rgb(58, 114, 40);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: 100 ;
+    font-size: medium;
+    font-style: oblique;
+    font-weight: 1
+    00;
+}
+footer {
+    background-color: #382f8a;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+th{
+    background-color: rgba(159, 99, 219, 0.349);
+    padding: 10px;
+    color: rgb(0, 9, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: 100 ;
+    font-size: large;
+    font-style: bold;    
+    font-weight: 200;
+
+}
+td{
+    /* background-color: rgba(159, 99, 219, 0.349); */
+    padding: 10px;
+    color: rgb(0, 9, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: 100 ;
+    font-size: medium;
+    font-style: italic;    
+    font-weight: 200;
+    text-align: center;
+}
